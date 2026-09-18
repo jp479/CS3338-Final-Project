@@ -1,0 +1,16 @@
+# logs
+*.log
+
+# user manual folder
+/User_Manual/
+
+# styles.css file
+styles.css
+
+# SRS files
+/Software_Requirement_Specification/
+!SRS_final.docx
+
+# SDD files
+/Software_Design_Document/
+!SDD_final.docx
